@@ -1,9 +1,13 @@
 # local config file
 wp-config.local.php
 
+# Stupid mac files
+.DS_Store
+
 # from https://github.com/github/gitignore/blob/master/WordPress.gitignore
 
 *.log
+error_log
 sitemap.xml
 sitemap.xml.gz
 wp-content/advanced-cache.php
